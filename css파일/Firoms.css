@@ -81,7 +81,7 @@ a{
     background-repeat: no-repeat;
 }
 #home{
-    background-image: url(soccer_stadium.jpg), linear-gradient(#7261FF, #5BFF47);
+    background-image: url(../Mainweb_images/soccer_stadium.jpg), linear-gradient(#7261FF, #5BFF47);
     background-blend-mode: luminosity;
     min-width: 100vh;
     min-height: 100vh;
